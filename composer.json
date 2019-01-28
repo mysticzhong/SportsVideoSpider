@@ -1,0 +1,17 @@
+{
+    "repositories": {
+    	"packagist": {
+        	"type": "composer",
+        	"url": "https://packagist.phpcomposer.com"
+    	}
+	},
+    "require": {
+        "php": ">=5.4.0",
+        "tobiaszCudnik/phpquery": "^1.0",
+        "jaeger/phpquery-single": "0.9.9",
+        "jaeger/querylist": "^4.0"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
